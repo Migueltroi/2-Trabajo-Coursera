@@ -1,2 +1,2 @@
 # 2-Trabajo-Courseras
-En este repositorio subiré el primer trabajo correspondiente al curso 5º (Proyecto Python para la ciencia de datos). IBM DATA SCIENCE
+In this repository im gonna upload the jupyther notebook corresponding to module 1 of 5º course: Python project for data science. IBM DATA SCIENCE.
